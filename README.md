@@ -128,10 +128,6 @@ React + Vite + Tailwind ecosystem
 
 Helpful guidance from the open source community
 
-👨‍💻 Author
-Alok Raj
-📧 rajalok10375@gmail.com
-
 
 
 ---
